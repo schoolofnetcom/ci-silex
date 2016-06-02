@@ -1,0 +1,12 @@
+{
+    "name": "wesleywillians/ci-silex",
+    "require": {
+        "silex/silex": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Wesley Willians",
+            "email": "wesleywillians@gmail.com"
+        }
+    ]
+}
